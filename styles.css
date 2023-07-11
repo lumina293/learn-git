@@ -1,6 +1,12 @@
 #heading{
   color: blue;
 }
+
 .class1{
  color: aqua;
+}
+
+.class2 {
+  color: green;
+  font-weight: bold;
 }
